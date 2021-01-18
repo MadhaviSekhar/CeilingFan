@@ -9,9 +9,9 @@ public class Main {
 	public static void main(String[] args){
 		CeilingFan fan = new CeilingFan(new DirectionCord(), new SpeedCord()); 
 		
+		fan.changeSpeed(); // Increase speed by 1
 		fan.changeSpeed();
-		fan.changeSpeed();
-		fan.changeDirection();
+		fan.changeDirection(); // Change the direction
 		fan.changeDirection();
 		fan.changeDirection();
 		

@@ -7,4 +7,4 @@
 ##### Once the direction has been reversed, it remains reversed as we cycle through the speed settings, until reversed again.
 ##  You can assume the unit is always powered (no wall switch)
 
-# Sampleoutput.txt is the sample output file.
+###### Sample_output.txt is the sample output file.

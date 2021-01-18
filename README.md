@@ -7,4 +7,8 @@
 ##### Once the direction has been reversed, it remains reversed as we cycle through the speed settings, until reversed again.
 ##  You can assume the unit is always powered (no wall switch)
 
+###### Main.java is the main class file.
+###### CeilingFan.java is the concrete class file, which holds the ceiling fan functionality.
+
 ###### Sample_output.txt is the sample output file.
+

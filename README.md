@@ -6,3 +6,5 @@
 ####  One reverses the direction of the fan at the current speed setting.
 ##### Once the direction has been reversed, it remains reversed as we cycle through the speed settings, until reversed again.
 ##  You can assume the unit is always powered (no wall switch)
+
+# Sampleoutput.txt is the sample output file.

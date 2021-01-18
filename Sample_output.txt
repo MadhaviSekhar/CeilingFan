@@ -1,0 +1,18 @@
+Action: Speed cord pulled. 
+ Ceiling fan speed at 1 and direction: FORWARD
+Action: Speed cord pulled. 
+ Ceiling fan speed at 2 and direction: FORWARD
+Action: Direction cord pulled. 
+ Ceiling fan speed at 2 and direction: REVERSE
+Action: Direction cord pulled. 
+ Ceiling fan speed at 2 and direction: FORWARD
+Action: Direction cord pulled. 
+ Ceiling fan speed at 2 and direction: REVERSE
+Action: Speed cord pulled. 
+ Ceiling fan speed at 3 and direction: REVERSE
+Action: Speed cord pulled. 
+ Ceiling fan speed at 0 and direction: REVERSE
+Action: Speed cord pulled. 
+ Ceiling fan speed at 1 and direction: REVERSE
+Action: Direction cord pulled. 
+ Ceiling fan speed at 1 and direction: FORWARD
